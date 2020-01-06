@@ -1,0 +1,5 @@
+2020-01-06 09:21:48 [ INFO] - org.springframework.web.context.ContextLoader -ContextLoader.java(271) -Root WebApplicationContext: initialization started
+2020-01-06 09:21:49 [ INFO] - com.alibaba.druid.pool.DruidDataSource -DruidDataSource.java(1010) -{dataSource-1} inited
+2020-01-06 09:21:50 [ INFO] - org.springframework.web.context.ContextLoader -ContextLoader.java(307) -Root WebApplicationContext initialized in 1866 ms
+2020-01-06 09:21:50 [ INFO] - org.springframework.web.servlet.DispatcherServlet -FrameworkServlet.java(525) -Initializing Servlet 'SpringMvc'
+2020-01-06 09:21:50 [ INFO] - org.springframework.web.servlet.DispatcherServlet -FrameworkServlet.java(547) -Completed initialization in 624 ms
